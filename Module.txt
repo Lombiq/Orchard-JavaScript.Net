@@ -1,0 +1,9 @@
+﻿Name: Javascript.NET
+AntiForgery: enabled
+Author: Piedone
+Website: http://javascriptdotnet.codeplex.com
+Version: 0.7
+OrchardVersion: 1.6
+Description: An Orchard module only containing the Javascript.NET (http://javascriptdotnet.codeplex.com/) binaries for easy usage inside the Orchard CMS.
+FeatureDescription: An Orchard module only containing the Javascript.NET (http://javascriptdotnet.codeplex.com/) binaries for easy usage inside the Orchard CMS.
+Category: Developer
