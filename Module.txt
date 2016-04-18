@@ -3,7 +3,7 @@ AntiForgery: enabled
 Author: Piedone
 Website: https://github.com/Lombiq/Orchard-JavaScript.Net
 Version: 0.7
-OrchardVersion: 1.9.0
+OrchardVersion: 1.9.1
 Description: An Orchard module only containing the Javascript.NET (http://javascriptdotnet.codeplex.com/) binaries for easy usage inside the Orchard CMS.
 FeatureDescription: An Orchard module only containing the Javascript.NET (http://javascriptdotnet.codeplex.com/) binaries for easy usage inside the Orchard CMS.
 Category: Developer
